@@ -1,0 +1,32 @@
+_repo: The-confessions-of-a-well-meaning-woman_71228
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKenna, Stephen
+    birthdate: 1888
+    deathdate: 1967
+    gutenberg_agent_id: '33654'
+    url: http://www.gutenberg.org/2009/agents/33654
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_McKenna_(novelist)
+description: ''
+gutenberg_issued: '2023-07-19'
+identifiers:
+  gutenberg: '71228'
+language: en
+pgterms:marc904: https://archive.org/details/confessionsofwel00mckerich
+pgterms:marc905: 20230709135105mckenna
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aUnited Kingdom :$bCassell and Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Upper class -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The confessions of a well-meaning woman
+url: http://www.gutenberg.org/ebooks/71228
