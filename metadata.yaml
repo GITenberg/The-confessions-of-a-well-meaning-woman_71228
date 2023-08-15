@@ -1,5 +1,8 @@
 _repo: The-confessions-of-a-well-meaning-woman_71228
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71228-h/images/img-cover.jpg
 creator:
   author:
     agent_name: McKenna, Stephen
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33654
     wikipedia: https://en.wikipedia.org/wiki/Stephen_McKenna_(novelist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71228#The-confessions-of-a-well-meaning-woman
 gutenberg_issued: '2023-07-19'
 identifiers:
   gutenberg: '71228'
